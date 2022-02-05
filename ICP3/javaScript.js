@@ -1,5 +1,4 @@
-// cache the dom (storing for future use)
-// & reset everything to 0 value
+// this variables help keeping score
 let humanCount = 0;
 let AICount = 0;
 

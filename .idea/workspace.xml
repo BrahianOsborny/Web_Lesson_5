@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6bad255e-b8d9-492c-a7d3-9aa86979397e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ICP3/Rock Paper Scissors.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICP3/javaScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICP3/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webandmobileCourse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webandmobileCourse.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP3-RWD/RWDtask/RWD.html" beforeDir="false" afterPath="$PROJECT_DIR$/ICP3-RWD/RWDtask/RWD.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP3-RWD/RWDtask/stylec.css" beforeDir="false" afterPath="$PROJECT_DIR$/ICP3-RWD/RWDtask/stylec.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP3/Rock Paper Scissors.html" beforeDir="false" afterPath="$PROJECT_DIR$/ICP3/Rock Paper Scissors.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP3/javaScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/ICP3/javaScript.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +75,7 @@
       <workItem from="1643737936901" duration="10000" />
       <workItem from="1643737980762" duration="50000" />
       <workItem from="1643738044100" duration="27107000" />
-      <workItem from="1644007840256" duration="13776000" />
+      <workItem from="1644007840256" duration="15792000" />
     </task>
     <servers />
   </component>
