@@ -2,6 +2,7 @@
 let humanCount = 0;
 let AICount = 0;
 
+//Function to allow User have a match with computer 
 function game(choice1) {
 
     const message =  document.getElementById("move-message");
