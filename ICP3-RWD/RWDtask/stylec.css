@@ -1,0 +1,66 @@
+.AppImage{
+    width: 250px;
+    /*height: 400px;*/
+}
+
+.TopImage{
+
+    width: 350px;
+    height: 115px;
+}
+
+.MidImage{
+    width: 1000px;
+    height: 500px;
+}
+
+.AppHeader{
+
+    font-size: 35px;
+    color: #747704;
+}
+
+.row > div > h2{
+
+    font-size: 35px;
+    color: #BCBBBB;
+}
+
+a:visited {
+    color: #747704;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: #747704;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+.TopHeader{
+
+    font-size: 55px;
+    color: #747704;
+    font-family: Lato;
+    width: 100%;
+    text-align: right;
+}
+
+.BottomHeader{
+
+    font-size: 25px;
+    color: #747704;
+    font-family: Lato;
+    margin-top: 0px!important;
+    margin-bottom: 0px!important;
+    width: 100%;
+    text-align: right;
+
+}
+
+.rowSpecific{
+    border-bottom: solid 5px #BCBBBB;
+    padding-top: 30px;
+    margin-bottom: 40px;
+
+}
