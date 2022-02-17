@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6bad255e-b8d9-492c-a7d3-9aa86979397e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ICP4/ICP4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICP4/ICP4.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +42,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="JavaScript" />
+    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="HTML&#10;JavaScript" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/ICP3/Rock Paper Scissors.html" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -74,7 +72,10 @@
       <workItem from="1643737980762" duration="50000" />
       <workItem from="1643738044100" duration="27107000" />
       <workItem from="1644007840256" duration="16417000" />
-      <workItem from="1644281097194" duration="3744000" />
+      <workItem from="1644281097194" duration="11402000" />
+      <workItem from="1644810096195" duration="117000" />
+      <workItem from="1644888488856" duration="543000" />
+      <workItem from="1644902667746" duration="19000" />
     </task>
     <servers />
   </component>
