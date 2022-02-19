@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>ToDo list</title>
+  // 1. write Typescript code in "app.component.ts" to work with ToDo list
+</head>
+<body>
+// 2. write html(view) code to display the ToDos
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-3 align-items-center">
+      To-Do List:
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-3 align-items-center">
+      <input [(ngModel)]="newTask" type="text" value="" class="form-control">
+    </div>
+    <div class="col-md-3 align-items-center">
+      <button (click)="addToList()" class="btn btn-light text-success"> ADD TASK </button>
+    </div>
+  </div>
+
+  <div *ngFor="let x of items; let index = index;" class="row DeleteRow">
+    <div class="col-3 align-items-center">
+      {{x}}
+    </div>
+    <div class="col-6 align-items-center">
+      <input (click)="deleteTask(index)" type="button" value="    Delete   " class="btn btn-light text-danger">
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
